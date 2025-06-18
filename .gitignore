@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output files
+blogs.csv
+blogs.xlsx
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
